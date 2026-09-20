@@ -1,0 +1,179 @@
+[
+  {
+    "id": "fao_soc_drylands_2020",
+    "title": "Recarbonizing Global Soils: A Technical Manual of Recommended Management Practices - Drylands and Semi-Arid Regions",
+    "source": "FAO Technical Manual Vol. 3",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2020,
+    "url": "https://www.fao.org/documents/card/en/c/cb6378en",
+    "topic": "Soil Organic Carbon and Moisture in Drylands",
+    "variables": [
+      "soil_organic_carbon",
+      "soil_moisture",
+      "rainfall",
+      "water_availability",
+      "semi_arid",
+      "cropping_system"
+    ],
+    "content": "In semi-arid and arid agricultural lands where soil organic carbon (SOC) levels drop below 0.5%, soil aggregate stability deteriorates significantly, leading to reduced water infiltration rates and increased surface runoff. Organic carbon in dryland soils acts as a primary sponge; every 0.1% increase in SOC can increase plant-available water capacity by up to 2-3%. Continuous monoculture without organic return accelerates humus mineralization under elevated temperatures. Recommended practices include retaining crop residues (mulching), transitioning to conservation tillage, and introducing deep-rooted drought-resilient legumes. Quantitative improvements in SOC in drylands require 3 to 7 years of sustained organic inputs. Limitations: In extremely arid environments (<250 mm annual rainfall), biomass production is limited, constraining the rate of carbon accumulation without supplementary irrigation or water harvesting structures."
+  },
+  {
+    "id": "ipcc_land_degradation_2019",
+    "title": "Special Report on Climate Change and Land (SRCCL): Chapter 4 - Land Degradation",
+    "source": "IPCC Special Report",
+    "organization": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2019,
+    "url": "https://www.ipcc.ch/srccl/chapter/chapter-4/",
+    "topic": "Land Degradation, Soil Erosion, and Semi-Arid Vulnerability",
+    "variables": [
+      "soil_organic_carbon",
+      "rainfall",
+      "monoculture",
+      "temperature",
+      "degradation",
+      "erosion"
+    ],
+    "content": "Land degradation is exacerbated by interactions between climate variations and intensive agricultural disturbance. In drylands, the combination of low precipitation, high evaporative demand, and monoculture cereal cultivation accelerates topsoil loss via wind and water erosion. When soil organic carbon is depleted below critical thresholds, biological binding agents (e.g. glomalin from arbuscular mycorrhizal fungi) decline, rendering the soil crust prone to sealing and desertification. Interventions that combine soil organic matter restoration with diversified vegetation cover significantly mitigate degradation risks. Co-benefits include enhanced carbon sequestration, improved soil moisture retention, and reduction of vulnerability to meteorological droughts. Time horizon for biophysical stabilization ranges from 2 to 5 years."
+  },
+  {
+    "id": "ipbes_pollinators_2016",
+    "title": "Assessment Report on Pollinators, Pollination and Food Production",
+    "source": "IPBES Thematic Assessment",
+    "organization": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)",
+    "year": 2016,
+    "url": "https://www.ipbes.net/assessment-reports/pollinators",
+    "topic": "Pollinator Diversity and Cropping System Interactions",
+    "variables": [
+      "pollinator_diversity",
+      "species_richness",
+      "monoculture",
+      "habitat_diversity",
+      "intercropping",
+      "habitat_fragmentation"
+    ],
+    "content": "Intensive agricultural monocultures create floral and nesting deserts for wild and managed pollinators. Cereal crops such as wheat, barley, and maize are wind-pollinated and provide neither nectar nor quality pollen, resulting in a collapse of wild bee and syrphid fly populations across landscape scales. Establishing flowering field margins, perennial hedgerows, and intercropping with leguminous forbs provides floral resources across temporal gaps (phenological continuity) and nesting habitats. A landscape with at least 15-20% non-crop semi-natural habitats supports a doubling of wild pollinator richness. Limitations: Pesticide drift and mechanical disturbance of field margins can neutralize the pollinator-supportive benefits of floral strips."
+  },
+  {
+    "id": "fao_biodiversity_food_agri_2019",
+    "title": "The State of the World's Biodiversity for Food and Agriculture",
+    "source": "FAO Commission on Genetic Resources",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2019,
+    "url": "https://www.fao.org/state-of-biodiversity-for-food-agriculture/en/",
+    "topic": "Agricultural Biodiversity and Soil Biological Activity",
+    "variables": [
+      "biodiversity",
+      "soil_microbial",
+      "species_richness",
+      "habitat_diversity",
+      "monoculture",
+      "intercropping"
+    ],
+    "content": "Biodiversity for food and agriculture encompasses genetic, species, and ecosystem diversity that sustains agricultural productivity. Monocultures deplete underground microbial biomass and functional diversity by restricting the diversity of root exudates. Conversely, diverse cropping systems such as intercropping, crop rotation, and agroforestry stimulate bacterial and fungal diversity in the rhizosphere. High soil microbial biodiversity enhances nutrient cycling (particularly nitrogen fixation and phosphorus solubilization), pathogen suppression, and soil aggregate stability. Rebuilding soil biodiversity requires diversified root inputs, minimized chemical disturbance, and continuous soil ground cover."
+  },
+  {
+    "id": "unep_dryland_restoration_2021",
+    "title": "Restoring Degraded Lands and Soils: Guidelines for Combating Desertification in Drylands",
+    "source": "UNEP Environmental Guidance",
+    "organization": "United Nations Environment Programme (UNEP)",
+    "year": 2021,
+    "url": "https://www.unep.org/resources/report/restoring-degraded-land",
+    "topic": "Agroforestry and Intercropping in Semi-Arid Ecosystems",
+    "variables": [
+      "agroforestry",
+      "semi_arid",
+      "soil_moisture",
+      "soil_organic_carbon",
+      "biodiversity",
+      "rainfall"
+    ],
+    "content": "Agroforestry in dryland ecosystems—such as silvoarable alley cropping and farmer-managed natural regeneration (FMNR) using nitrogen-fixing species like Faidherbia albida or Acacia senegal—delivers microclimate modification. Tree canopies reduce wind speed, lower soil surface temperatures by 3-6°C, and decrease evapotranspiration. Deep tree roots draw water and minerals from lower soil horizons (hydraulic lift), redistributing moisture to shallow-rooted annual crops during night hours. Leaf litter inputs steadily restore soil organic carbon over a medium-to-long term horizon (3-10 years). Limitations: Tree species must be non-competitive with companion crops for water during seedling establishment and early vegetative stages."
+  },
+  {
+    "id": "fao_soil_management_guidelines_2017",
+    "title": "Voluntary Guidelines for Sustainable Soil Management",
+    "source": "Global Soil Partnership",
+    "organization": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2017,
+    "url": "https://www.fao.org/documents/card/en/c/55449584-ae5c-4e89-80b6-ebc634064a7c/",
+    "topic": "Soil pH, Chemical Health, and Nutrient Cycling",
+    "variables": [
+      "soil_ph",
+      "soil_organic_carbon",
+      "soil_microbial",
+      "pollution",
+      "agricultural_disturbance"
+    ],
+    "content": "Soil pH strongly regulates the bioavailability of essential plant macro- and micro-nutrients and microbial community composition. Strongly acidic soils (pH < 5.5) mobilize toxic aluminum (Al3+) and lock up bioavailable phosphorus, suppressing root growth and reducing rhizobial nodulation in legumes. Highly alkaline soils (pH > 8.0) cause iron, manganese, and zinc deficiencies. Organic carbon addition serves as a natural pH buffer through exchangeable carboxyl and phenolic hydroxyl functional groups. Management must match amendments to baseline pH: agricultural lime for acidic soils, elemental sulfur or gypsum for sodic/alkaline soils, alongside continuous organic matter replenishment."
+  },
+  {
+    "id": "ipbes_global_assessment_2019",
+    "title": "Global Assessment Report on Biodiversity and Ecosystem Services: Drivers of Change",
+    "source": "IPBES Global Assessment",
+    "organization": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)",
+    "year": 2019,
+    "url": "https://www.ipbes.net/global-assessment",
+    "topic": "Habitat Fragmentation and Landscape Connectivity",
+    "variables": [
+      "habitat_fragmentation",
+      "species_richness",
+      "habitat_diversity",
+      "land_use",
+      "human_impact"
+    ],
+    "content": "Land-use change and habitat fragmentation represent the leading direct drivers of terrestrial biodiversity loss. When natural vegetation is converted into isolated islands within intensive monoculture landscapes, species with limited dispersal ranges experience genetic bottlenecks and population crashes. Restoring ecological corridors, riparian buffer strips, and stepping-stone habitats across agricultural matrices reconnects fragmented populations, enables pollinator movement, and restores natural biological pest control by predatory insects and birds. Evidence demonstrates that reconnecting fragmented patches increases species richness over a 3-5 year period without requiring retirement of productive agricultural land."
+  },
+  {
+    "id": "ipcc_wg2_ar6_ch5_2022",
+    "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability - Chapter 5: Food, Fibre, and Other Ecosystem Products",
+    "source": "IPCC Working Group II Contribution to AR6",
+    "organization": "Intergovernmental Panel on Climate Change (IPCC)",
+    "year": 2022,
+    "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-5/",
+    "topic": "Climate Adaptation via Agroecological Diversification",
+    "variables": [
+      "climate",
+      "rainfall_pattern",
+      "drought",
+      "temperature",
+      "intercropping",
+      "biodiversity"
+    ],
+    "content": "Increasing frequency of extreme weather events, prolonged droughts, and erratic rainfall patterns severely threaten monoculture production systems. Diversified agricultural systems that integrate polycultures, cover cropping, and agroforestry demonstrate substantially greater climate resilience than monocultures. Diverse canopies buffer temperature extremes and maintain higher relative humidity at crop level. Polycultures optimize spatial and temporal resource capture (water, sunlight, nutrients) because different species possess distinct rooting architectures and maturity cycles. Confidence: High. Adaptation responses take 1-3 seasons for annual polycultures and 3-8 years for perennial agroforestry systems."
+  },
+  {
+    "id": "nature_plants_intercropping_2020",
+    "title": "Cereal-Legume Intercropping Improves Grain Yield and Soil Biodiversity in Low-Input Systems",
+    "source": "Nature Plants (Vol. 6, pp. 883-892)",
+    "organization": "International Cereal and Legume Research Consortium",
+    "year": 2020,
+    "url": "https://doi.org/10.1038/s41477-020-0680-9",
+    "topic": "Intercropping in Cereal Systems (Wheat-Legume)",
+    "variables": [
+      "crop",
+      "monoculture",
+      "intercropping",
+      "soil_organic_carbon",
+      "biodiversity",
+      "species_richness"
+    ],
+    "content": "Replacing cereal monoculture (such as continuous wheat) with cereal-legume intercropping (e.g. wheat intercropped with chickpea, lentil, or field pea) reduces synthetic nitrogen dependency while elevating both above- and below-ground biodiversity. The complementary root structures explore different soil strata: shallow fibrous roots of wheat utilize surface nutrients while taproots of legumes access deeper moisture and biological nitrogen fixation via symbiotic Rhizobium bacteria. The diversification of root exudates stimulates mycorrhizal fungal networks, increasing microbial carbon use efficiency and facilitating long-term humic substance formation. Beneficial insect populations, including parasitic wasps and hoverflies, increase due to varied canopy architecture."
+  },
+  {
+    "id": "usgs_water_availability_soil_2021",
+    "title": "Soil Moisture Dynamics and Groundwater Recharge Under Conservation Agriculture",
+    "source": "USGS Water Resources Investigation",
+    "organization": "United States Geological Survey (USGS)",
+    "year": 2021,
+    "url": "https://pubs.usgs.gov/wri/wri024045/",
+    "topic": "Soil Moisture Conservation and Water Infiltration",
+    "variables": [
+      "soil_moisture",
+      "water_availability",
+      "rainfall",
+      "agricultural_disturbance",
+      "soil_organic_carbon"
+    ],
+    "content": "Continuous mechanical tillage disrupts soil pore continuity, creates a dense hardpan (plow layer), and accelerates moisture evaporation under direct sunlight exposure. Conservation practices that minimize soil disturbance (no-till or reduced-till) and maintain a vegetative residue blanket of at least 30% soil coverage reduce surface evaporation by 20-35% and double saturated hydraulic conductivity. In semi-arid regions receiving erratic rainfall, this allows episodic heavy downpours to infiltrate rapidly into root zones rather than being lost to destructive surface runoff. Combined with organic matter accumulation, conservation agriculture stabilizes soil water availability through critical crop growth windows."
+  }
+]
