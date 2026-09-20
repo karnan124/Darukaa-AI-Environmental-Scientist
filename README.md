@@ -209,6 +209,6 @@ Enter the following statement in the Chat Panel (or click **"Suggested Inputs"**
 4. **Attribution**: Full citation with institutional publisher, year, URL, and explicit ecological limitations.
 
 ### Live URLs & Repository
-- **GitHub Repository**: [https://github.com/karnan124/Darukaa.Earth-AI-Biodiversity-Intelligence-Chatbot-Challenge](https://github.com/karnan124/Darukaa.Earth-AI-Biodiversity-Intelligence-Chatbot-Challenge)
+- **GitHub Repository**: [https://github.com/karnan124/Darukaa-AI-Environmental-Scientist](https://github.com/karnan124/Darukaa-AI-Environmental-Scientist)
 - **Live Preview URL**: [https://ais-pre-2tsfufartps5kblt352i3o-26813527569.asia-east1.run.app](https://ais-pre-2tsfufartps5kblt352i3o-26813527569.asia-east1.run.app)
 - **No Credentials Required**: The system is self-contained with offline institutional indexes and local fallback logic. No third-party database logins or proprietary subscriptions are needed to run and verify the submission.
